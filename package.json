@@ -1,0 +1,12 @@
+{
+  "name": "orbit-zero-rpg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Orbit Zero Pathfinder RPG — a dependency-free Node.js static site.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
